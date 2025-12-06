@@ -7,7 +7,7 @@ I'm **[`sam mathai`](https://www.youtube.com/@Scratch_malayalam)**, a Certified 
 <details>
   <summary>More about me</summary>
 
-- **Name**: Scratch
+- **Name**: Sam mathai
 - **From**: India
 - **Bug Hunter** | **Security Researcher** | **Freelance Penetration Tester**
 - I have experience in bug hunting, vulnerability assessment, penetration testing, and social engineering.
