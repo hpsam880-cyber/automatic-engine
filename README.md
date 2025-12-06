@@ -38,8 +38,8 @@ To build impactful data projects and help others learn practical data analysis a
 ---
 
 ### ✉️ Contact
-- YouTube: [Scratch Malayalam](https://www.youtube.com/@Scratch_malayalam)
-- Email: `your-email@example.com` *(replace with your email)*
+- YouTube: 
+- Email: 
 
 ---
 
