@@ -1,8 +1,7 @@
 
 # 👋 Hi, I'm Sam Mathai
 
-[![YouTube](https://img.shields.io/badge/YouTube-Scratch%20Malayalam-red?logo=youtube)](https://www.youtube.com/@Scratch_malayalam)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?logo=linkedin)]()
+
 
 ---
 
